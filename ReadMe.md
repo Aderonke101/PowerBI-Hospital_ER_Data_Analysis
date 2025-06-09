@@ -74,6 +74,7 @@ Line and Bar Charts: Show trends in total visits, age group distribution, and re
 Heatmap Analysis: Displays satisfaction levels by patient race and wait time.
 
 KPIs & Summary Cards: Highlight critical statistics like average wait time, satisfaction score, and appointment types.
+![Hospital-Emergency-Room-Dashboard](Hospital-ER_Dashboard_scrnsht.png)
 
 
 ## Tools & Technologies Used
